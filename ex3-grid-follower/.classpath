@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/demo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/a-star-search"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ex4-utils"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ex4-grid-map"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ex4-nicks-help-code"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/leJOS_NXT_runtime"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

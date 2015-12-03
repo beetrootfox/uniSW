@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.lejos.nxt.ldt.LEJOS_LIBRARY_CONTAINER/nxt"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ex4-nicks-help-code"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/localisation-simulation"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/demo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ex3-grid-follower"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ex4-grid-map"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/a-star-search"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
